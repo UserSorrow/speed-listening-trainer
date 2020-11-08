@@ -1,5 +1,5 @@
 # Speed-Listening Trainer 
-###Train your ears with our speed-listening trainer!\
+### Train your ears with our speed-listening trainer!\
 Hear a chapter of a book and adjust the speed to train yourself to comprehend information faster or automatically increase the speed logarithmically.\
 View the sample [here](https://daniel-t-ling.github.io/speed-listening-trainer/ "sample website").
 
